@@ -6,6 +6,6 @@
 <img src="images/resources_inv.png" class="inline" width="500" height="400"/>
 
 
-## Schema of RDS databce
+## Schema of RDS database
 
 <img src="images/schema.png" class="inline" width="600" height="500"/>
